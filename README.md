@@ -279,7 +279,16 @@ A desktop network scanning application inspired by Zenmap, built during an inter
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/charanteja-k/charanteja-k/main/github-contribution-grid-snake-dark.svg" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/charanteja-k/charanteja-k/output/github-contribution-grid-snake-dark.svg" />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/charanteja-k/charanteja-k/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake"
+       src="https://raw.githubusercontent.com/charanteja-k/charanteja-k/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
