@@ -1,331 +1,365 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7000FF&height=240&section=header&text=CHARAN%20TEJA&fontSize=52&fontColor=ffffff&animation=twinkle&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20Cybersecurity&descSize=18&descAlign=50&descAlignY=72" width="100%" alt="Header Banner"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Charan%20Teja&fontSize=60&fontColor=b19cd9&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+intelligent+products+end-to-end;AI%2FML+%7C+Full+Stack+%7C+Product+Engineering;Turning+hackathon+ideas+into+production+systems;Currently+shipping+PADO+%E2%80%94+an+adaptive+interview+AI" alt="Typing SVG" />
+
+<br/>
+
+[![University](https://img.shields.io/badge/University-JNTUH-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)](#)
+[![Regulation](https://img.shields.io/badge/Program-CSE%20%7C%20R22-7C3AED?style=flat-square&logo=readthedocs&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Based%20in-Telangana%2C%20India-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white)](#)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=A78BFA)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](#)
+[![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=A78BFA)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=A78BFA)](#)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6D28D9&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=7C3AED&label=Followers&logo=github)
+![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=flat-square&color=8B5CF6&label=Total+Stars&logo=github)
+
 </div>
+
+<br/>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="28"/> About Me
 
 <div align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(AI+%26+ML)+Undergraduate;Full-Stack+Web+%26+AI-Powered+Application+Developer;Cybersecurity+%26+R%26D+Intern+@+Hackers+Gurukul;Driven+to+Build+Secure%2C+Intelligent+Software" alt="Typing SVG" />
-  </a>
+<table>
+<tr>
+<td>
+
+I'm a Computer Science undergraduate at **JNTUH** who treats every build like a product launch, not a class assignment. My work sits at the intersection of **software engineering**, **applied AI/ML**, and **full-stack product thinking** — from single-file frontend experiences with production-grade polish to agentic AI systems with real decision loops.
+
+I care about **craft**: pixel-level UI detail, clean architecture, and systems that behave predictably under pressure. Recent work spans an adaptive AI interview agent with a genuine reasoning loop, a govtech identity-verification concept, and premium browser-based interactive experiences built without frameworks — proof that constraints sharpen engineering, not limit it.
+
+</td>
+</tr>
+</table>
 </div>
 
-<br/>
+```yaml
+Open To:
+  - Software Engineering Internships (Full Stack / AI-ML)
+  - Applied AI / ML Engineering Roles
+  - Open Source Collaboration
+  - Hackathons & Product Building Sprints
+  - Research Collaboration in Agentic AI Systems
+```
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28"/> Tech Stack
 
 <div align="center">
-  <!-- Academic Badges -->
-  <img src="https://img.shields.io/badge/Degree-B.Tech%20in%20CSE%20(AI%20%26%20ML)-7000FF?style=for-the-badge&logo=academicons&logoColor=white&labelColor=0D1117" alt="B.Tech CSE AI and ML" />
-  <img src="https://img.shields.io/badge/CGPA-8.89%20%2F%2010-5A189A?style=for-the-badge&logo=googleacademic&logoColor=white&labelColor=0D1117" alt="CGPA" />
-  <!-- Location Badge -->
-  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20Telangana%2C%20India-3C096C?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" alt="Location" />
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,c,php&theme=dark" />
+
+<br/><br/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js,vite&theme=dark" />
+
+<br/><br/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,postgres,mongodb&theme=dark" />
+
+<br/><br/>
+
+**Cloud, DevOps & Tooling**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode,postman,figma&theme=dark" />
+
 </div>
 
-<br/>
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="28"/> AI / ML Expertise
 
 <div align="center">
-  <!-- Action Buttons -->
-  <a href="mailto:kondakallacharanteja@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/charanteja22">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/charanteja-k">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
-  </a>
+
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| **Agentic AI Systems** | ⭐⭐⭐⭐☆ | Designed genuine Thought → Action → Observation reasoning loops for adaptive agents |
+| **Classical ML** | ⭐⭐⭐⭐☆ | XGBoost classification pipelines tuned via RandomizedSearchCV for behavioral scoring |
+| **Applied NLP** | ⭐⭐⭐☆☆ | Conversational assessment logic and adaptive questioning systems |
+| **Model Evaluation & Tuning** | ⭐⭐⭐⭐☆ | Hyperparameter search, cross-validation, performance-first tuning workflows |
+| **AI Product Integration** | ⭐⭐⭐⭐☆ | Shipping AI features inside real, deadline-bound product builds |
+
 </div>
 
-<br/>
+---
 
-<div align="center">
-  <!-- Stats Badges -->
-  <img src="https://komarev.com/ghpvc/?username=charanteja-k&color=8a2be2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/charanteja-k?style=for-the-badge&color=7000FF&labelColor=0D1117&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/charanteja-k?style=for-the-badge&color=9D4EDD&labelColor=0D1117&label=TOTAL+STARS" alt="Stars" />
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a5ab-11eb-9082-6248203794b0.gif" width="100%" alt="Separator"/>
-
-## 01. About Me
-
-I am a **Computer Science and Engineering (Artificial Intelligence & Machine Learning)** undergraduate at **Sreyas Institute of Engineering and Technology** with hands-on experience in full-stack web development, AI-powered application development, and cybersecurity.
-
-* 💡 **Software Engineering Fundamentals:** Skilled in developing secure, intelligent, and user-centric software solutions using Python, Java, C, and modern JavaScript frameworks.
-* 🤖 **AI/ML & Application Engineering:** Developed AI-powered prototypes leveraging Gemini API, OpenRouter API, OpenAI, XGBoost, Scikit-learn, Whisper speech transcription, and Librosa audio analysis.
-* 🛡️ **Cybersecurity Expertise:** Practical experience in network scanning, vulnerability assessment, and security tools including Kali Linux, Nmap, Wireshark, and Burp Suite gained through internships.
-* 🎯 **Product Engineering Mindset:** Transforming innovative ideas into practical applications through hackathons, independent projects, and research internships.
-
-### 🌟 Open To
-* **Software Engineering & Full-Stack Web Development Internships**
-* **AI/ML Application Development & Research Opportunities**
-* **Cybersecurity & Network Security Collaborations**
-* **Open Source & Technical Event Leadership**
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a5ab-11eb-9082-6248203794b0.gif" width="100%" alt="Separator"/>
-
-## 02. Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,nextjs,react,nodejs&perline=8" alt="Core Technologies" />
-</div>
-
-<br/>
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=0D1117)
-
-### 🎨 Web Technologies & Tools
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0D1117)
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0D1117)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0D1117)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)
-
-### 🛡️ Cybersecurity & Network Tools
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0D1117)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white&labelColor=0D1117)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0D1117)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=0D1117)
-![Network Scanning](https://img.shields.io/badge/Network_Scanning-7000FF?style=for-the-badge&logo=security&logoColor=white&labelColor=0D1117)
-![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-5A189A?style=for-the-badge&logo=shield&logoColor=white&labelColor=0D1117)
-
-### ⚙️ Databases & AI Frameworks
-![Firebase Firestore](https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0D1117)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=0D1117)
-![Prisma ORM](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white&labelColor=0D1117)
-![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=0D1117)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-9D4EDD?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117)
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a5ab-11eb-9082-6248203794b0.gif" width="100%" alt="Separator"/>
-
-## 03. AI / ML Expertise
-
-| Domain | Proficiency | Key Technologies & Architecture Details |
-| :--- | :---: | :--- |
-| **Agentic AI & Mock Interview Orchestration** | `Advanced` | Built dynamic Thought-Action-Observation loops for question branching and history query tracking in placement preparation. |
-| **ML Predictive Modeling & Tuning** | `Intermediate` | Implemented hyperparameter-tuned XGBoost models (`RandomizedSearchCV`) using Scikit-learn for student placement probability scoring. |
-| **Speech & Audio Intelligence** | `Intermediate` | Integrated Librosa for candidate voice confidence analysis and OpenAI Whisper for real-time speech transcription. |
-| **Multimodal Vision & Environmental AI** | `Intermediate` | Applied Google Gemini API and OpenRouter API for automated marine pollution detection and image classification. |
-| **Cybersecurity Utility Automation** | `Practical` | Developed Python-based network analysis and vulnerability scanning utilities integrated with Nmap and PyQt. |
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a5ab-11eb-9082-6248203794b0.gif" width="100%" alt="Separator"/>
-
-## 04. Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28"/> Featured Projects
 
 <details>
 <summary><b>🧠 PADO — Placement Assessment and Development Orchestrator</b></summary>
-
 <br/>
 
-An end-to-end AI placement assistance application featuring an adaptive mock interview agent driven by a dynamic Thought-Action-Observation loop that queries past answered questions history to branch questions.
+An adaptive mock interview AI agent built for the **Hack-the-Matrix** track at **Technidhi 2026**, engineered around a genuine agentic reasoning loop rather than a scripted Q&A flow.
 
-| Dimension | Specification |
-| :--- | :--- |
-| **Stack** | Next.js, TypeScript, SQLite, NextAuth.js, FastAPI, XGBoost, Scikit-learn, OpenAI, Librosa, Whisper |
-| **Category** | Hackathon Project |
-| **Key Features** | Adaptive mock interview loop, Librosa audio confidence scoring, Whisper speech transcription |
-| **ML Model** | Hyperparameter-tuned XGBoost model (`RandomizedSearchCV`) predicting placement percentage |
-| **Repository** | [github.com/charanteja-k](https://github.com/charanteja-k) |
+| Aspect | Details |
+|---|---|
+| **Stack** | Python, XGBClassifier, RandomizedSearchCV, Agentic Orchestration Layer |
+| **Scale** | Built solo-paired, full spec-to-submission cycle in a 14-hour build window |
+| **Performance** | Tuned classification pipeline for real-time adaptive scoring |
+| **Security** | Isolated evaluation pipeline with controlled agent action space |
+| **Impact** | Hackathon submission demonstrating production-grade agent design under time constraints |
+| **Repository** | [View Repository](#) |
 
-#### Professional Project Overview
-PADO features an adaptive mock interview agent driven by a Thought-Action-Observation loop that analyzes question history to branch queries dynamically. It combines Librosa audio confidence analysis and Whisper speech-to-text with a hyperparametered XGBoost model trained to estimate placement success probability.
+PADO's core differentiator is a genuine **Thought → Action → Observation** loop — the agent reasons about candidate responses, takes an evaluative action, observes the outcome, and adapts its next question accordingly, rather than following a fixed decision tree. The system was scoped end-to-end with a full technical specification, build timeline, and idea validation document.
 
 </details>
-
-<br/>
 
 <details>
-<summary><b>🔍 NetScan v7 — AI-Powered Network Scanner</b></summary>
-
+<summary><b>🚗 VIFS — Vehicle Identity Fallback System</b></summary>
 <br/>
 
-A desktop network scanning application inspired by Zenmap to perform host discovery, port scanning, and network analysis.
+A GovTech concept designed for **Telangana**, addressing fallback vehicle identity verification when primary identification systems fail.
 
-| Dimension | Specification |
-| :--- | :--- |
-| **Stack** | Python, PyQt, Nmap, Kali Linux Networking |
-| **Category** | Internship Project (Hackers Gurukul) |
-| **Key Features** | Interactive GUI with multiple scanning modes, host discovery, and port detection |
-| **Security Focus** | Practical application of networking and cybersecurity assessment concepts |
-| **Repository** | [github.com/charanteja-k](https://github.com/charanteja-k) |
+| Aspect | Details |
+|---|---|
+| **Stack** | System Architecture & Specification (Concept-to-Pitch Stage) |
+| **Scale** | Statewide GovTech applicability |
+| **Performance** | Designed for high-availability fallback verification |
+| **Security** | Identity-fallback model built with verification integrity as the core constraint |
+| **Impact** | Formal V0.2 specification suitable for pitching to state innovation bodies like T-Hub |
+| **Repository** | [View Repository](#) |
 
-#### Professional Project Overview
-NetScan v7 provides an interactive graphical interface built with PyQt and Python that leverages Nmap for efficient host discovery, port scanning, and security assessment across local subnets.
+VIFS tackles a real civic infrastructure gap — what happens when standard vehicle identification fails — with a formally documented specification ready for institutional review.
 
 </details>
-
-<br/>
 
 <details>
-<summary><b>🌊 Samudranetra — AI Based Marine Pollution Detection Platform</b></summary>
-
+<summary><b>💬 Charcha — WhatsApp-Inspired Messaging Web App</b></summary>
 <br/>
 
-An AI-powered web platform for detecting and reporting marine pollution through intelligent image analysis to support environmental monitoring.
+A messaging web application inspired by WhatsApp's UX, deliberately built on a lean, framework-free stack.
 
-| Dimension | Specification |
-| :--- | :--- |
-| **Stack** | Next.js, Firebase, Cloudinary, Google Gemini API, OpenRouter API |
-| **Category** | Academic Project (Live Application) |
-| **Key Features** | Multimodal image pollution analysis, responsive environmental dashboards, community reporting |
-| **Storage & Auth** | Firebase Firestore, Cloudinary media storage |
-| **Repository** | [github.com/charanteja-k](https://github.com/charanteja-k) |
+| Aspect | Details |
+|---|---|
+| **Stack** | XAMPP, Apache, PHP, MySQL, Vanilla JavaScript, GSAP, Tailwind CSS (CDN) |
+| **Scale** | Full messaging application — no build tools, no frameworks |
+| **Performance** | Lightweight delivery via CDN-based styling and vanilla JS interactivity |
+| **Security** | Server-side PHP/MySQL request handling |
+| **Impact** | Complete PRD + master UI/UX overhaul prompt targeting an Apple/Stripe-grade aesthetic |
+| **Repository** | [View Repository](#) |
 
-#### Professional Project Overview
-Samudranetra leverages Google Gemini API and OpenRouter API vision capabilities for automated marine pollution detection from user-uploaded images, providing interactive dashboards and community reporting features for environmental awareness.
+Charcha proves that constraint-driven engineering — no frameworks, no build pipeline — can still produce a polished, animated, production-feel messaging experience through disciplined use of GSAP and a full design token system.
 
 </details>
 
+<details>
+<summary><b>🎮 Golden Dynasty — Premium Browser Pinball</b></summary>
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a5ab-11eb-9082-6248203794b0.gif" width="100%" alt="Separator"/>
+A single-file HTML pinball game with a dark walnut-and-gold aesthetic, built entirely in the browser with real physics.
 
-## 05. Work Experience
+| Aspect | Details |
+|---|---|
+| **Stack** | Matter.js, GSAP, Single-File HTML |
+| **Scale** | Full physics-driven pinball game, zero external dependencies beyond CDN libs |
+| **Performance** | Real-time physics simulation via Matter.js engine |
+| **Security** | Client-side only, no attack surface |
+| **Impact** | Custom "Obsidian Alley" map/layout demonstrating game-design and frontend craft together |
+| **Repository** | [View Repository](#) |
 
-### 💼 Cybersecurity Intern | Hackers Gurukul
-**Role:** Cybersecurity Intern | **Domain:** Network Analysis & Security Assessment
+Combines real physics simulation with meticulous visual design — proof that browser games can carry premium production values without a game engine.
 
-* Worked with Kali Linux and security tools including Nmap, Wireshark, and Burp Suite for network analysis and security assessment.
-* Developed Python-based cybersecurity utilities while strengthening practical knowledge of networking, vulnerability assessment, and ethical hacking.
+</details>
 
-`Kali Linux` `Nmap` `Wireshark` `Burp Suite` `Python` `Network Scanning` `Vulnerability Assessment`
-
+<details>
+<summary><b>⚡ FocusFlow — Productivity Landing Page</b></summary>
 <br/>
 
-### 💼 Research & Development Intern | Hackers Gurukul
-**Role:** R&D Intern | **Domain:** AI-Powered Software & Full-Stack Prototypes
+A college mini-project reimagined as a polished SaaS-style productivity product.
 
-* Developed AI-powered software prototypes and full-stack web applications using modern frameworks and AI-assisted development workflows.
-* Contributed to research and development initiatives by exploring software architecture, automation, and practical AI integration.
+| Aspect | Details |
+|---|---|
+| **Stack** | HTML, Tailwind CSS (CDN), GSAP |
+| **Scale** | Single-file landing page with functional product features |
+| **Performance** | Ambient blob animations with a working Pomodoro timer |
+| **Security** | Fully client-side, no data persistence risk |
+| **Impact** | Upgraded from a basic mini-project to a black-and-purple SaaS aesthetic |
+| **Repository** | [View Repository](#) |
 
-`AI Integration` `Full-Stack Development` `Next.js` `Python` `Automation` `Software Architecture`
+Took a standard academic assignment and rebuilt it with genuine product polish — ambient motion design paired with a real, functional productivity tool.
 
-<br/>
+</details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a5ab-11eb-9082-6248203794b0.gif" width="100%" alt="Separator"/>
+---
 
-## 06. Achievements
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="28"/> Experience
 
 <div align="center">
 
-| Recognition / Event | Details |
-| :--- | :--- |
-| **🏆 First Prize — TKR College Coding Competition** | Won 1st place cash prize in competitive programming contest at TKR College. |
-| **🇮🇳 Smart India Hackathon Participant** | Selected and participated in the national-level Smart India Hackathon. |
-| **🎯 Event Organizer & Lead** | Led the organization of Freshers, Codeathon, and Prompt Detective technical events. |
-| **💻 Sreyas Developers Conference (SDC)** | Actively participated in Sreyas Developers Conference technical sessions and workshops. |
+### Independent Software & AI Builder — Self-Directed
+**2024 — Present**
 
 </div>
 
-<br/>
+Independently designed and shipped multiple end-to-end products spanning full-stack web applications, agentic AI systems, and GovTech concepts — operating across the entire lifecycle from specification to build to submission.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a5ab-11eb-9082-6248203794b0.gif" width="100%" alt="Separator"/>
+**Scope of Work**
+- Architected and built production-quality web applications without relying on heavy frameworks
+- Designed and tuned ML classification pipelines for real-time adaptive systems
+- Authored formal technical specifications and PRDs for GovTech and hackathon submissions
+- Delivered a complete hackathon product — spec, build, and submission — within a 14-hour window
+- Led UI/UX overhauls targeting premium, Apple/Stripe-grade design standards
 
-## 07. Profiles & Links
+`Python` `JavaScript` `PHP` `MySQL` `XGBoost` `GSAP` `Tailwind CSS` `Matter.js` `System Design`
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activity/Trophy.png" width="28"/> Achievements
 
 <div align="center">
-  <a href="https://linkedin.com/in/charanteja22">
-    <img src="https://img.shields.io/badge/LinkedIn-charanteja22-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/charanteja-k">
-    <img src="https://img.shields.io/badge/GitHub-charanteja--k-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:kondakallacharanteja@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kondakallacharanteja-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
-  </a>
+
+| Recognition | Details |
+|---|---|
+| 🏆 Hack-the-Matrix Participant | Technidhi 2026 — Built PADO, an adaptive AI interview agent, in a 14-hour sprint |
+| 📄 Formal GovTech Proposal | Authored V0.2 specification for VIFS, pitch-ready for state innovation bodies |
+| 🎨 Frontend Craft Recognition | Golden Dynasty pinball build showcased advanced physics + design integration |
+
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a5ab-11eb-9082-6248203794b0.gif" width="100%" alt="Separator"/>
-
-## 08. GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="28"/> Certifications
 
 <div align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=charanteja-k&show_icons=true&theme=tokyonight&title_color=7000FF&text_color=E0AAFF&icon_color=7000FF&bg_color=0D1117&border_color=7000FF&hide_border=false" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=charanteja-k&layout=compact&theme=tokyonight&title_color=7000FF&text_color=E0AAFF&icon_color=7000FF&bg_color=0D1117&border_color=7000FF&hide_border=false" alt="Top Languages" width="48%" />
+
+**AWS**
+
+![AWS](https://img.shields.io/badge/AWS_Certification-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**Oracle**
+
+![Oracle](https://img.shields.io/badge/Oracle_Certification-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**NPTEL**
+
+![NPTEL](https://img.shields.io/badge/NPTEL_Certification-6D28D9?style=for-the-badge&logo=readthedocs&logoColor=white)
+
+**Cisco**
+
+![Cisco](https://img.shields.io/badge/Cisco_Certification-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
 </div>
 
-<br/>
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" width="28"/> Coding Profiles
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charanteja-k&theme=tokyonight&background=0D1117&border=7000FF&stroke=7000FF&ring=9D4EDD&fire=7000FF&currStreakNum=E0AAFF&sideNums=E0AAFF&sideTitle=E0AAFF&currStreakTitle=E0AAFF" alt="GitHub Streak" width="97%" />
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](#)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46)](#)
+[![HackerRank](https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](#)
+[![CodeChef](https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=A78BFA)](#)
+
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a5ab-11eb-9082-6248203794b0.gif" width="100%" alt="Separator"/>
-
-## 9. Contribution Activity
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28"/> GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charanteja-k&theme=react-dark&bg_color=0D1117&color=7000FF&line=9D4EDD&point=E0AAFF&area=true&hide_border=false" alt="Contribution Activity Graph" width="100%" />
-</div>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" />
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a5ab-11eb-9082-6248203794b0.gif" width="100%" alt="Separator"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
 
-## 10. Current Focus
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activity/Military%20Medal.png" width="28"/> GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" />
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activity/Chart%20Increasing.png" width="28"/> Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD" />
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Snake.png" width="28"/> Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" width="28"/> Current Focus
 
 ```yaml
-current_focus:
-  learning:
-    - Artificial Intelligence & Machine Learning Core Architecture
-    - Advanced Network Security & Ethical Hacking Protocols
-  building:
-    - AI-Powered Full-Stack Applications (Next.js, FastAPI, Gemini API)
-    - Python Cybersecurity Utilities & Network Scanning Tools
-  exploring:
-    - Agentic Thought-Action-Observation Reasoning Workflows
-    - Multimodal Vision & Audio Signal Analysis
-  open_to:
-    - Software Development & AI Engineering Internships
-    - Open Source Collaborations & Cybersecurity Research
+Learning:
+  - Advanced Agentic AI Architectures
+  - Distributed Systems Fundamentals
+  - Cloud-Native Deployment Patterns
+
+Building:
+  - PADO — Adaptive AI Interview Agent
+  - VIFS — GovTech Identity Fallback Concept
+
+Exploring:
+  - Retrieval-Augmented Generation Pipelines
+  - Framework-Free Frontend Performance Techniques
+
+Open To:
+  - Software Engineering Internships
+  - AI/ML Research Collaboration
+  - Open Source Contribution
 ```
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a5ab-11eb-9082-6248203794b0.gif" width="100%" alt="Separator"/>
-
-## 11. Connect With Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="28"/> Connect With Me
 
 <div align="center">
-  <a href="mailto:kondakallacharanteja@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/charanteja22">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/charanteja-k">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
-  </a>
+
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=A78BFA)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=A78BFA)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=A78BFA)](#)
+
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a5ab-11eb-9082-6248203794b0.gif" width="100%" alt="Separator"/>
-
+---
 
 <div align="center">
-  <p><i>"Driven to solve real-world problems by developing secure, intelligent, and user-centric software."</i></p>
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7000FF&height=120&section=footer" width="100%" alt="Footer Banner"/>
+
+*"Ship it like it's production, even when it's a class assignment."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/>
+
 </div>
