@@ -1,20 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Kondakalla%20Charan%20Teja&fontSize=48&fontColor=b19cd9&animation=fadeIn&fontAlignY=38&desc=CSE%20(AI%20%26%20ML)%20%7C%20Full%20Stack%20Developer%20%7C%20Cybersecurity&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Charan%20Teja&fontSize=60&fontColor=b19cd9&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+%2B+AI-Powered+Application+Development;Cybersecurity+%7C+Network+Analysis+%7C+Vulnerability+Assessment;Building+PADO+%E2%80%94+an+adaptive+AI+placement+ecosystem;Turning+ideas+into+secure%2C+intelligent+software" alt="Typing SVG" />
-
-<br/>
-
-[![University](https://img.shields.io/badge/Sreyas%20Institute%20of%20Engineering%20%26%20Technology-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)](#)
-[![Program](https://img.shields.io/badge/B.Tech%20CSE-AI%20%26%20ML-7C3AED?style=flat-square&logo=readthedocs&logoColor=white)](#)
-[![Location](https://img.shields.io/badge/Hyderabad%2C%20Telangana%2C%20India-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white)](#)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+intelligent+products+end-to-end;AI%2FML+%7C+Full+Stack+%7C+Product+Engineering;Turning+hackathon+ideas+into+production+systems;Currently+shipping+PADO+%E2%80%94+an+adaptive+interview+AI" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://linkedin.com/in/charanteja22)
-[![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:kondakallacharanteja@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/charanteja-k)
+[![University](https://img.shields.io/badge/University-JNTUH-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)](#)
+[![Regulation](https://img.shields.io/badge/Program-CSE%20%7C%20R22-7C3AED?style=flat-square&logo=readthedocs&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Based%20in-Telangana%2C%20India-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white)](#)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=A78BFA)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](#)
+[![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=A78BFA)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=A78BFA)](#)
 
 <br/>
 
@@ -58,31 +59,25 @@ Open To:
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,c,typescript&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,c,php&theme=dark" />
 
 <br/><br/>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js,vite&theme=dark" />
 
 <br/><br/>
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,python,firebase,sqlite,prisma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,postgres,mongodb&theme=dark" />
 
 <br/><br/>
 
-**Cybersecurity & Tooling**
+**Cloud, DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=kali,linux,git,github,vscode&theme=dark" />
-
-<div>
-
-`Nmap` `Wireshark` `Burp Suite` `Network Scanning` `Vulnerability Assessment`
-
-</div>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode,postman,figma&theme=dark" />
 
 </div>
 
@@ -92,13 +87,13 @@ Open To:
 
 <div align="center">
 
-| Domain | Details |
-|---|---|
-| **Classical ML — XGBoost** | Hyperparameter-tuned XGBoost model (via RandomizedSearchCV) used in PADO to predict placement probability from DSA, Aptitude, Communication, and CGPA signals |
-| **Local LLM Orchestration** | Privacy-first local LLM used in PADO to parse resumes, extract skills, and generate personalized weekly study roadmaps — zero data leakage, no reliance on paid APIs |
-| **Audio / Speech Processing** | Whisper for transcription and Librosa for audio-based confidence scoring in PADO's mock interview flow |
-| **AI Integration & Prompt Engineering** | Practical integration of Gemini API, OpenAI, and OpenRouter API (NVIDIA Nemotron VL, Gemma, Mistral) across multiple projects |
-| **AI Image Analysis** | Vision-model-based marine pollution detection in Samudra-Netra using OpenRouter's free-tier vision models |
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| **Classical ML — XGBoost** | ⭐⭐⭐⭐☆ | Hyperparameter-tuned XGBoost model (via RandomizedSearchCV) used in PADO to predict placement probability from DSA, Aptitude, Communication, and CGPA signals |
+| **Local LLM Orchestration**  | ⭐⭐⭐⭐☆ |  Privacy-first local LLM used in PADO to parse resumes, extract skills, and generate personalized weekly study roadmaps — zero data leakage, no reliance on paid APIs |
+| **Audio / Speech Processing** | ⭐⭐⭐☆☆ | Whisper for transcription and Librosa for audio-based confidence scoring in PADO's mock interview flow |
+| **AI Integration & Prompt Engineering** | ⭐⭐⭐⭐☆ | Practical integration of Gemini API, OpenAI, and OpenRouter API (NVIDIA Nemotron VL, Gemma, Mistral) across multiple projects |
+| **AI Image Analysis** | ⭐⭐⭐⭐☆ | Vision-model-based marine pollution detection in Samudra-Netra using OpenRouter's free-tier vision models |
 
 </div>
 
@@ -120,7 +115,7 @@ Next-generation AI placement preparation ecosystem featuring an adaptive mock in
 | **Performance** | Hyperparameter-tuned XGBoost model (RandomizedSearchCV) predicts placement probability (0–100%) from DSA, Aptitude, Communication, and CGPA |
 | **Security** | Local LLM orchestration keeps resume parsing and roadmap generation on-device — zero data leakage, no dependency on paid external APIs |
 | **Audio Pipeline** | Librosa for confidence scoring, Whisper for transcription |
-| **Repository** | [View Repository](#) |
+| **Repository** | [View Repository](https://github.com/charanteja-k/pado) |
 
 </details>
 
@@ -137,7 +132,26 @@ An AI-powered ocean conservation platform built for **SDG Goal 14: Life Below Wa
 | **Security** | All API keys stored as environment variables (never in source); server-side keys (`OPENROUTER_API_KEY`, `FIREBASE_PRIVATE_KEY`, `CLOUDINARY_API_SECRET`) are only accessible inside API routes; only `NEXT_PUBLIC_` prefixed variables are exposed client-side; `.env` excluded via `.gitignore` |
 | **Impact** | Combines AI pollution detection with community reporting to support environmental monitoring and awareness |
 | **Deployment** | Vercel |
-| **Repository** | [View Repository](#) · [Live Demo](#) |
+| **Repository** | [View Repository](https://github.com/charanteja-k/samudranetra) · [Live Demo](https://samudranetra.vercel.app/) |
+
+</details>
+
+<details>
+<summary><b>💬 Charcha — WhatsApp-Inspired Messaging Web App</b></summary>
+<br/>
+
+A messaging web application inspired by WhatsApp's UX, deliberately built on a lean, framework-free stack.
+
+| Aspect | Details |
+|---|---|
+| **Stack** | XAMPP, Apache, PHP, MySQL, Vanilla JavaScript, GSAP, Tailwind CSS (CDN) |
+| **Scale** | Full messaging application — no build tools, no frameworks |
+| **Performance** | Lightweight delivery via CDN-based styling and vanilla JS interactivity |
+| **Security** | Server-side PHP/MySQL request handling |
+| **Impact** | Complete PRD + master UI/UX overhaul prompt targeting an Apple/Stripe-grade aesthetic |
+| **Repository** | [View Repository](https://github.com/charanteja-k/charcha_xampp) |
+
+Charcha proves that constraint-driven engineering — no frameworks, no build pipeline — can still produce a polished, animated, production-feel messaging experience through disciplined use of GSAP and a full design token system.
 
 </details>
 
@@ -202,6 +216,7 @@ A desktop network scanning application inspired by Zenmap, built during an inter
 
 | Recognition | Details |
 |---|---|
+| 🏆 Hack-the-Matrix 1st Place Winner of Domain Multi AI | Technidhi 2026 — Built PADO, an adaptive AI interview agent, in a 14-hour sprint |
 | 🏆 First Prize — Coding Competition | Won a cash-prize coding competition at TKR College |
 | 🇮🇳 Smart India Hackathon | Participant |
 | 🎤 Event Organization | Led the organization of Freshers, Codeathon, and Prompt Detective events |
@@ -211,15 +226,15 @@ A desktop network scanning application inspired by Zenmap, built during an inter
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="28"/> Education
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" width="28"/> Coding Profiles
 
 <div align="center">
 
-| Qualification | Institution | Details | Duration |
-|---|---|---|:---:|
-| **B.Tech, Computer Science (AI & ML)** | Sreyas Institute of Engineering and Technology | CGPA: 8.89/10 | 2024 – 2028 |
-| **Intermediate (MPC)** | Excellencia Junior College | 94.7% | 2022 – 2024 |
-| **Primary & Secondary (CBSE)** | St. Andrews School | 86% | 2017 – 2022 |
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/charanteja_k/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46)](#)
+[![HackerRank](https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/profile/charanteja_kond1)
+[![CodeChef](https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=A78BFA)](https://www.codechef.com/users/super_swan_79)
 
 </div>
 
@@ -264,7 +279,7 @@ A desktop network scanning application inspired by Zenmap, built during an inter
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/charanteja-k/charanteja-k/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/charanteja-k/charanteja-k/main/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -273,6 +288,11 @@ A desktop network scanning application inspired by Zenmap, built during an inter
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" width="28"/> Current Focus
 
 ```yaml
+Learning:
+  - Advanced Agentic AI Architectures
+  - Distributed Systems Fundamentals
+  - Cloud-Native Deployment Patterns
+
 Building:
   - PADO — Adaptive AI Interview Agent (Thought-Action-Observation loop)
   - Samudra-Netra — AI Marine Pollution Detection Platform
@@ -296,6 +316,7 @@ Open To:
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:kondakallacharanteja@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://linkedin.com/in/charanteja22)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/charanteja-k)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=A78BFA)](#)
 
 </div>
 
@@ -303,7 +324,7 @@ Open To:
 
 <div align="center">
 
-*"Turning ideas into secure, intelligent, user-centric software."*
+*"Ship it like it's production, even when it's a class assignment."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/>
 
