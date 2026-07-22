@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7000FF&height=240&section=header&text=KONDAKALLA%20CHARAN%20TEJA&fontSize=42&fontColor=ffffff&animation=twinkle&desc=CSE%20(AI%20%26%20ML)%20Undergraduate%20%7C%20AI%20%26%20Full-Stack%20Developer%20%7C%20Cybersecurity%20Intern&descSize=16&descAlign=50&descAlignY=72" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7000FF&height=240&section=header&text=CHARAN%20TEJA&fontSize=52&fontColor=ffffff&animation=twinkle&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20Cybersecurity&descSize=18&descAlign=50&descAlignY=72" width="100%" alt="Header Banner"/>
 </div>
 
 <div align="center">
@@ -48,12 +48,6 @@
 
 ## 01. About Me
 
-```
-┌──────────────────────────────────────────────────────────────────────────────────┐
-│              PROFESSIONAL ENGINEERING & AI INFRASTRUCTURE PROFILE                │
-└──────────────────────────────────────────────────────────────────────────────────┘
-```
-
 I am a **Computer Science and Engineering (Artificial Intelligence & Machine Learning)** undergraduate at **Sreyas Institute of Engineering and Technology** with hands-on experience in full-stack web development, AI-powered application development, and cybersecurity.
 
 * 💡 **Software Engineering Fundamentals:** Skilled in developing secure, intelligent, and user-centric software solutions using Python, Java, C, and modern JavaScript frameworks.
@@ -61,15 +55,11 @@ I am a **Computer Science and Engineering (Artificial Intelligence & Machine Lea
 * 🛡️ **Cybersecurity Expertise:** Practical experience in network scanning, vulnerability assessment, and security tools including Kali Linux, Nmap, Wireshark, and Burp Suite gained through internships.
 * 🎯 **Product Engineering Mindset:** Transforming innovative ideas into practical applications through hackathons, independent projects, and research internships.
 
-```
-┌──────────────────────────────────────────────────────────────────────────────────┐
-│                                   OPEN TO                                        │
-└──────────────────────────────────────────────────────────────────────────────────┘
-• Software Engineering & Full-Stack Web Development Internships
-• AI/ML Application Development & Research Opportunities
-• Cybersecurity & Network Security Collaborations
-• Open Source & Technical Event Leadership
-```
+### 🌟 Open To
+* **Software Engineering & Full-Stack Web Development Internships**
+* **AI/ML Application Development & Research Opportunities**
+* **Cybersecurity & Network Security Collaborations**
+* **Open Source & Technical Event Leadership**
 
 <br/>
 
@@ -244,38 +234,7 @@ Samudranetra leverages Google Gemini API and OpenRouter API vision capabilities 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a5ab-11eb-9082-6248203794b0.gif" width="100%" alt="Separator"/>
 
-## 07. Education
-
-### 🎓 Bachelor of Technology (B.Tech) in Computer Science & Engineering
-**Institution:** Sreyas Institute of Engineering and Technology  
-**Specialization:** Artificial Intelligence and Machine Learning  
-**Timeline:** 2024 — 2028 | **CGPA:** `8.89 / 10`
-
-![B.Tech CSE AI and ML](https://img.shields.io/badge/Sreyas%20Institute-B.Tech%20CSE%20(AI%20%26%20ML)-7000FF?style=for-the-badge&logo=googleacademic&logoColor=white&labelColor=0D1117)
-
-<br/>
-
-### 🏫 Intermediate Education (10+2)
-**Institution:** Excellencia Junior College  
-**Major:** Mathematics, Physics, and Chemistry (MPC)  
-**Timeline:** 2022 — 2024 | **Percentage:** `94.7%`
-
-![Excellencia Junior College](https://img.shields.io/badge/Excellencia%20Junior%20College-MPC%2094.7%25-5A189A?style=for-the-badge&logo=education&logoColor=white&labelColor=0D1117)
-
-<br/>
-
-### 🏫 Primary & Secondary Education (10th CBSE)
-**Institution:** St. Andrews School  
-**Board:** CBSE  
-**Timeline:** 2017 — 2022 | **Percentage:** `86%`
-
-![St. Andrews School](https://img.shields.io/badge/St.%20Andrews%20School-CBSE%2086%25-3C096C?style=for-the-badge&logo=school&logoColor=white&labelColor=0D1117)
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a5ab-11eb-9082-6248203794b0.gif" width="100%" alt="Separator"/>
-
-## 08. Profiles & Links
+## 07. Profiles & Links
 
 <div align="center">
   <a href="https://linkedin.com/in/charanteja22">
@@ -295,11 +254,11 @@ Samudranetra leverages Google Gemini API and OpenRouter API vision capabilities 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a5ab-11eb-9082-6248203794b0.gif" width="100%" alt="Separator"/>
 
-## 09. GitHub Analytics
+## 08. GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charanteja-k&show_icons=true&theme=tokyonight&title_color=7000FF&text_color=E0AAFF&icon_color=7000FF&bg_color=0D1117&border_color=7000FF&hide_border=false" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanteja-k&layout=compact&theme=tokyonight&title_color=7000FF&text_color=E0AAFF&icon_color=7000FF&bg_color=0D1117&border_color=7000FF&hide_border=false" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=charanteja-k&show_icons=true&theme=tokyonight&title_color=7000FF&text_color=E0AAFF&icon_color=7000FF&bg_color=0D1117&border_color=7000FF&hide_border=false" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=charanteja-k&layout=compact&theme=tokyonight&title_color=7000FF&text_color=E0AAFF&icon_color=7000FF&bg_color=0D1117&border_color=7000FF&hide_border=false" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
@@ -312,17 +271,7 @@ Samudranetra leverages Google Gemini API and OpenRouter API vision capabilities 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a5ab-11eb-9082-6248203794b0.gif" width="100%" alt="Separator"/>
 
-## 10. GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=charanteja-k&theme=darkhub&no-frame=true&no-background=true&margin-w=15&column=6" alt="GitHub Trophies" width="100%" />
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a5ab-11eb-9082-6248203794b0.gif" width="100%" alt="Separator"/>
-
-## 11. Contribution Activity
+## 9. Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=charanteja-k&theme=react-dark&bg_color=0D1117&color=7000FF&line=9D4EDD&point=E0AAFF&area=true&hide_border=false" alt="Contribution Activity Graph" width="100%" />
@@ -332,17 +281,7 @@ Samudranetra leverages Google Gemini API and OpenRouter API vision capabilities 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a5ab-11eb-9082-6248203794b0.gif" width="100%" alt="Separator"/>
 
-## 12. Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/charanteja-k/charanteja-k/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a5ab-11eb-9082-6248203794b0.gif" width="100%" alt="Separator"/>
-
-## 13. Current Focus
+## 10. Current Focus
 
 ```yaml
 current_focus:
@@ -364,7 +303,7 @@ current_focus:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a5ab-11eb-9082-6248203794b0.gif" width="100%" alt="Separator"/>
 
-## 14. Connect With Me
+## 11. Connect With Me
 
 <div align="center">
   <a href="mailto:kondakallacharanteja@gmail.com">
@@ -384,7 +323,6 @@ current_focus:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a5ab-11eb-9082-6248203794b0.gif" width="100%" alt="Separator"/>
 
-## 15. Footer
 
 <div align="center">
   <p><i>"Driven to solve real-world problems by developing secure, intelligent, and user-centric software."</i></p>
